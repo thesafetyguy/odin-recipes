@@ -1,6 +1,4 @@
 # odin-recipes
-Odin Recipes HTML Project
-
 This is the Odin Recipes HTML Project
 
 This will be a project to demonstrate the basic understanding of
